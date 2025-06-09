@@ -1,0 +1,65 @@
+html {
+  background: linear-gradient(177.52deg, #2fff06 2.11%, #154580 81.34%);
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+h2,
+footer {
+  font-family: "Mansalva";
+}
+
+button {
+  border: none;
+}
+
+.itens-comprados {
+  text-decoration: line-through;
+}
+
+.borda-lista {
+  border-bottom: dotted 2px blue;
+  color: rgb(54, 54, 54);
+}
+
+input:disabled {
+  border: none;
+  background: none;
+  color: black;
+}
+
+input {
+  border: none;
+  background: none;
+  color: black;
+}
+
+.fa-floppy-disk {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding: 8px;
+}
+
+.fa-regular {
+  color: black;
+  font-size: 20px;
+}
+
+.deletar {
+  color: black;
+  font-size: 18px;
+}
+
+.has-text-link2 {
+  font-family: "Poppins";
+  font-size: 30px;
+  font-weight: 800;
+  margin-left: 10px;
+  color: #0d075e;
+}
+
+.has-background {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 10px;
+}
